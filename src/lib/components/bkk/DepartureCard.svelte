@@ -39,5 +39,9 @@
 				Indul!
 			{/if}
 		</td>
+	{:catch error}
+		<td>
+			<Icon icon="material-symbols-light:error" class="text-2xl"/>
+		</td>	
 	{/await}
 </tr>
