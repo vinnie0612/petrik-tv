@@ -1,4 +1,4 @@
-//const baseUrl = 'https://helyettesites.petrik.hu/api/index.php?status=napihely';
+const baseUrl = 'https://helyettesites.petrik.hu/api/index.php?status=napihely';
 
 // type for data
 export type Sub = {
@@ -12,12 +12,12 @@ export type Sub = {
 };
 
 export const getSubs = async () => {
-	//const response = await fetch(baseUrl);
+	const response = await fetch(baseUrl);
 
-	//const input = await response.json();
+	const input = await response.json();
 
 	// cors error miatt
-	const input = [
+	const input_static = [
 		{
 			tname: 'Szabados István',
 			ora: '1.óra',
