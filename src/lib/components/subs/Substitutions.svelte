@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { getSubs } from '$lib/fetchers/subs';
 
-  import Icon from '@iconify/svelte';
+	import Icon from '@iconify/svelte';
 
 	import Header from '$lib/components/subs/subcard/Header.svelte';
 
