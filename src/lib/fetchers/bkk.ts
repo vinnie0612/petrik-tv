@@ -6,7 +6,6 @@ export async function getDeparturesForStop(apiKey: string, stopId: string) {
 	);
 
 	const body = await response.json();
-	console.log(body);
 	const stopTime = body.data.entry.stopTimes[0];
 	const routeId = body.data.references.trips[stopTime.tripId].routeId;
 	const routeShortDesc = body.data.references.routes[routeId].shortName;
