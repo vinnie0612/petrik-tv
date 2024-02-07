@@ -1,6 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,900&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.clock,
+.busdesc {
+	font-family: 'Martian Mono', monospace;
+}
 
 td {
 	@apply px-1 py-0.5 items-center;

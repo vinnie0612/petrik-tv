@@ -3,34 +3,24 @@
 
 	import Icon from '@iconify/svelte';
 
-	import Header from '$lib/components/subs/subcard/Header.svelte';
+	import TableHeader from '$lib/components/TableHeader.svelte';
 
 	const subsPromise = getSubs();
 </script>
-
-<h1>Substitutions</h1>
 
 {#await subsPromise}
 	<p>loading...</p>
 {:then subs}
 	<table class="w-full">
 		<tr>
-			<Header icon="nest-clock-farsight-analog" centered={true} />
-			<Header icon="person-off" name="Tanár" />
-			<Header icon="person" name="Helyettesítő" />
-			<Header icon="meeting-room" name="Terem" />
-			<Header icon="group" name="Osztály" centered={true} />
-			<Header icon="cell-merge-rounded" name="ÖVH" centered={true} />
+			<TableHeader icon="nest-clock-farsight-analog" centered={true} />
+			<TableHeader icon="person-off" name="Tanár" />
+			<TableHeader icon="person" name="Helyettesítő" />
+			<TableHeader icon="meeting-room" name="Terem" />
+			<TableHeader icon="group" name="Osztály" centered={true} />
+			<TableHeader icon="cell-merge-rounded" centered={true} />
 		</tr>
 		{#each subs as sub}
-			<!-- 
-    tname
-    ora
-    helytan
-    terem
-    class
-    ovh
-    -->
 			<tr class="items-center border-t">
 				<td class="font-bold text-center">{sub.ora}</td>
 				<td>{sub.tname}</td>
@@ -46,6 +36,6 @@
 		{/each}
 	</table>
 {:catch error}
-	<p>owchie!</p>
+	<p>valami nem jo!</p>
 	<p>{error}</p>
 {/await}
