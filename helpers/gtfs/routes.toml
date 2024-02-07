@@ -1,0 +1,2154 @@
+[[routes]]
+route_id = "BKK_0050"
+route_short_name = "5"
+route_long_name = "Pasaréti tér / Rákospalota, Kossuth utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0070"
+route_short_name = "7"
+route_long_name = "Albertfalva vasútállomás / Újpalota, Nyírpalota út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0075"
+route_short_name = "7E"
+route_long_name = "Blaha Lujza tér M / Újpalota, Nyírpalota út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0078"
+route_short_name = "7G"
+route_long_name = "Cinkotai autóbuszgarázs / Újpalota, Nyírpalota út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0085"
+route_short_name = "8E"
+route_long_name = "Kelenföld vasútállomás M / Újpalota, Nyírpalota út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_00852"
+route_short_name = "e8E"
+route_long_name = "Kelenföld vasútállomás M / Újpalota, Nyírpalota út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0090"
+route_short_name = "9"
+route_long_name = "Óbuda, Bogdáni út / Kőbánya alsó vasútállomás"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0100"
+route_short_name = "10"
+route_long_name = "Örs vezér tere M+H / Örs vezér tere M+H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0110"
+route_short_name = "11"
+route_long_name = "Batthyány tér M+H / Nagybányai út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0130"
+route_short_name = "13"
+route_long_name = "Budatétény vasútállomás (Campona) / Diósd, Búzavirág utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0131"
+route_short_name = "13A"
+route_long_name = "Budatétény vasútállomás (Campona) / Diósd, Sashegyi út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0150"
+route_short_name = "15"
+route_long_name = "Boráros tér H / Gyöngyösi utca M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0160"
+route_short_name = "16"
+route_long_name = "Deák Ferenc tér M / Széll Kálmán tér M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0161"
+route_short_name = "16A"
+route_long_name = "Dísz tér / Széll Kálmán tér M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0205"
+route_short_name = "20E"
+route_long_name = "Keleti pályaudvar M / Káposztásmegyer, Szilas-patak"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0210"
+route_short_name = "21"
+route_long_name = "Széll Kálmán tér M / Normafa, látogatóközpont"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0211"
+route_short_name = "21A"
+route_long_name = "Széll Kálmán tér M / Svábhegy"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0220"
+route_short_name = "22"
+route_long_name = "Széll Kálmán tér M / Budakeszi, Tesco áruház"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0221"
+route_short_name = "22A"
+route_long_name = "Széll Kálmán tér M / Budakeszi, Dózsa György tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0250"
+route_short_name = "25"
+route_long_name = "Mexikói út M / Újpest-központ M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0260"
+route_short_name = "26"
+route_long_name = "Nyugati pályaudvar M / Göncz Árpád városközpont M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0270"
+route_short_name = "27"
+route_long_name = "Sánc utca / Móricz Zsigmond körtér M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0290"
+route_short_name = "29"
+route_long_name = "Szentlélek tér H / Hűvösvölgy"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0300"
+route_short_name = "30"
+route_long_name = "Keleti pályaudvar M / Káposztásmegyer, Mogyoródi-patak"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0301"
+route_short_name = "30A"
+route_long_name = "Keleti pályaudvar M / Megyer, Szondi utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0310"
+route_short_name = "31"
+route_long_name = "Örs vezér tere M+H / Állás utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0320"
+route_short_name = "32"
+route_long_name = "Göncz Árpád városközpont M / Örs vezér tere M+H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0330"
+route_short_name = "33"
+route_long_name = "Móricz Zsigmond körtér M / Nagytétény-Diósd vasútállomás"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0331"
+route_short_name = "33A"
+route_long_name = "Móricz Zsigmond körtér M / Építész utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0340"
+route_short_name = "34"
+route_long_name = "Göncz Árpád városközpont M / Békásmegyer, Újmegyeri tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0350"
+route_short_name = "35"
+route_long_name = "Csepel, Csillagtelep / Szentlőrinci úti lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0360"
+route_short_name = "36"
+route_long_name = "Csepel, Csillagtelep / Pestszentlőrinc vasútállomás"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0380"
+route_short_name = "38"
+route_long_name = "Csepel, Szent Imre tér / Kölcsey Ferenc utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0381"
+route_short_name = "38A"
+route_long_name = "Csepel, Szent Imre tér / Lakihegy, Cseresznyés utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0390"
+route_short_name = "39"
+route_long_name = "Batthyány tér M+H / Ráth György utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0400"
+route_short_name = "40"
+route_long_name = "Kelenföld vasútállomás M / Budaörsi lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0402"
+route_short_name = "40B"
+route_long_name = "Kelenföld vasútállomás M / Budaörsi lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0405"
+route_short_name = "40E"
+route_long_name = "Kelenföld vasútállomás M / Budaörsi lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0440"
+route_short_name = "44"
+route_long_name = "Örs vezér tere M+H / Centenáriumi lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0450"
+route_short_name = "45"
+route_long_name = "Örs vezér tere M+H / Cinkota, Lassú utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0460"
+route_short_name = "46"
+route_long_name = "Újpalota, Nyírpalota út / Újmajori utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0530"
+route_short_name = "53"
+route_long_name = "Újbuda-központ M / Mindszenty József bíboros tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0540"
+route_short_name = "54"
+route_long_name = "Boráros tér H / Víztorony tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0550"
+route_short_name = "55"
+route_long_name = "Boráros tér H / Ady Endre utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0570"
+route_short_name = "57"
+route_long_name = "Hűvösvölgy / Hűvösvölgy"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0580"
+route_short_name = "58"
+route_long_name = "Móricz Zsigmond körtér M / Balatoni út / Háros utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0602"
+route_short_name = "60B"
+route_long_name = "Széll Kálmán tér M / Széchenyi-hegy, Gyermekvasút"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0630"
+route_short_name = "63"
+route_long_name = "Hűvösvölgy / Nagykovácsi, Tisza István tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0640"
+route_short_name = "64"
+route_long_name = "Hűvösvölgy / Solymár, Auchan áruház"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0641"
+route_short_name = "64A"
+route_long_name = "Hűvösvölgy / Templom tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0650"
+route_short_name = "65"
+route_long_name = "Kolosy tér / Szépvölgyi dűlő"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0651"
+route_short_name = "65A"
+route_long_name = "Kolosy tér / Fenyőgyöngye"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0660"
+route_short_name = "66"
+route_long_name = "Határ út M / Soroksár, központi raktárak"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0662"
+route_short_name = "66B"
+route_long_name = "Határ út M / Soroksár, BILK"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0665"
+route_short_name = "66E"
+route_long_name = "Határ út M / Soroksár, BILK"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0670"
+route_short_name = "67"
+route_long_name = "Örs vezér tere M+H / Újlak utca, lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0680"
+route_short_name = "68"
+route_long_name = "Kispest, Vas Gereben utca / Akadémiaújtelep, 525. tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0710"
+route_short_name = "71"
+route_long_name = "Csepel, Szent Imre tér / Görögkatolikus templom"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0845"
+route_short_name = "84E"
+route_long_name = "Határ út M / Kossuth Lajos utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0850"
+route_short_name = "85"
+route_long_name = "Örs vezér tere M+H / Kőbánya-Kispest M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0855"
+route_short_name = "85E"
+route_long_name = "Örs vezér tere M+H / Kőbánya-Kispest M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0870"
+route_short_name = "87"
+route_long_name = "Kelenföld vasútállomás M / Mechanikai Művek"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0871"
+route_short_name = "87A"
+route_long_name = "Kelenföld vasútállomás M / Kamaraerdő"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0880"
+route_short_name = "88"
+route_long_name = "Kelenföld vasútállomás M / Budatétény vasútállomás (Campona)"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0881"
+route_short_name = "88A"
+route_long_name = "Kelenföld vasútállomás M / Márta utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0895"
+route_short_name = "89E"
+route_long_name = "Határ út M / Bajcsy-Zsilinszky utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0910"
+route_short_name = "91"
+route_long_name = "Nyugati pályaudvar M / Széll Kálmán tér M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0920"
+route_short_name = "92"
+route_long_name = "Rákosszentmihály vasútállomás / Kistarcsa, kórház H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0921"
+route_short_name = "92A"
+route_long_name = "Rákosszentmihály vasútállomás / Kistarcsa, kórház H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0930"
+route_short_name = "93"
+route_long_name = "Kőbánya-Kispest M / Szemeretelep vasútállomás"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0931"
+route_short_name = "93A"
+route_long_name = "Kőbánya-Kispest M / Pestszentlőrinc, Fedezék utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0945"
+route_short_name = "94E"
+route_long_name = "Határ út M / Rákóczi Ferenc utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0950"
+route_short_name = "95"
+route_long_name = "Puskás Ferenc Stadion M / Felsőcsatári köz"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0960"
+route_short_name = "96"
+route_long_name = "Újpalota, Szentmihályi út / Újpest, Fóti út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0975"
+route_short_name = "97E"
+route_long_name = "Örs vezér tere M+H / Kucorgó tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0980"
+route_short_name = "98"
+route_long_name = "Kőbánya-Kispest M / Rákoscsaba vasútállomás"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0985"
+route_short_name = "98E"
+route_long_name = "Kőbánya-Kispest M / Rákoshegy vasútállomás"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_0990"
+route_short_name = "99"
+route_long_name = "Blaha Lujza tér M / Udvarhely utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1005"
+route_short_name = "100E"
+route_long_name = "Deák Ferenc tér M / Liszt Ferenc Airport 2"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1012"
+route_short_name = "101B"
+route_long_name = "Kelenföld vasútállomás M / Szent László utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1015"
+route_short_name = "101E"
+route_long_name = "Kelenföld vasútállomás M / Budatétény vasútállomás (Campona)"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1020"
+route_short_name = "102"
+route_long_name = "Széll Kálmán tér M / Németvölgyi út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1040"
+route_short_name = "104"
+route_long_name = "Rákospalota, Kossuth utca / Dunakeszi, Auchan áruház"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1041"
+route_short_name = "104A"
+route_long_name = "Rákospalota, Kossuth utca / Székesdűlő, ipartelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1050"
+route_short_name = "105"
+route_long_name = "Apor Vilmos tér / Gyöngyösi utca M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1060"
+route_short_name = "106"
+route_long_name = "Göncz Árpád városközpont M / Római úti lakótelep, Varsa utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1070"
+route_short_name = "107"
+route_long_name = "BudaPart / Keleti pályaudvar M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1085"
+route_short_name = "108E"
+route_long_name = "Gazdagréti tér / Újpalota, Nyírpalota út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1100"
+route_short_name = "110"
+route_long_name = "Thomán István utca / Bosnyák tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1110"
+route_short_name = "111"
+route_long_name = "Batthyány tér M+H / Óbuda, Bogdáni út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1120"
+route_short_name = "112"
+route_long_name = "Thomán István utca / Bosnyák tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1130"
+route_short_name = "113"
+route_long_name = "Budatétény vasútállomás (Campona) / Diósd, Sashegyi út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1131"
+route_short_name = "113A"
+route_long_name = "Budatétény vasútállomás (Campona) / Angeli utca / Nagytétényi út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1140"
+route_short_name = "114"
+route_long_name = "Móricz Zsigmond körtér M / Baross Gábor-telep, Ispiláng utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1160"
+route_short_name = "116"
+route_long_name = "Dísz tér / Fény utcai piac"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1170"
+route_short_name = "117"
+route_long_name = "Kőbánya alsó vasútállomás / Mélytó utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1180"
+route_short_name = "118"
+route_long_name = "Szentlélek tér H / Óbudai autóbuszgarázs"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1190"
+route_short_name = "119"
+route_long_name = "Gubacsi út / Határ út / Zodony utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1200"
+route_short_name = "120"
+route_long_name = "Göncz Árpád városközpont M / Újpest-központ M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1210"
+route_short_name = "121"
+route_long_name = "Újpest-városkapu M / Rákospalota-Újpest vasútállomás"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1225"
+route_short_name = "122E"
+route_long_name = "Újpest-városkapu M / Káposztásmegyer, Mogyoródi-patak"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1230"
+route_short_name = "123"
+route_long_name = "Határ út M / Soroksár, IKEA áruház"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1231"
+route_short_name = "123A"
+route_long_name = "Határ út M / Szentlőrinci úti lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1240"
+route_short_name = "124"
+route_long_name = "Bosnyák tér / Rákospalota, Bogáncs utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1250"
+route_short_name = "125"
+route_long_name = "Bosnyák tér / Rákospalota, MEDIMPEX"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1252"
+route_short_name = "125B"
+route_long_name = "Bosnyák tér / Fóti Auchan áruház"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1260"
+route_short_name = "126"
+route_long_name = "Káposztásmegyer, Szilas-patak / Dunakeszi, Auchan áruház"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1261"
+route_short_name = "126A"
+route_long_name = "Káposztásmegyer, Szilas-patak / Káposztásmegyer, Mogyoródi-patak"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1280"
+route_short_name = "128"
+route_long_name = "Széll Kálmán tér M / Regőczi István tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1290"
+route_short_name = "129"
+route_long_name = "Széll Kálmán tér M / Szent Ferenc Kórház"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1300"
+route_short_name = "130"
+route_long_name = "Puskás Ferenc Stadion M / Sárfű utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1310"
+route_short_name = "131"
+route_long_name = "Örs vezér tere M+H / János utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1325"
+route_short_name = "132E"
+route_long_name = "Kőbánya-Kispest M / Szent Lőrinc-telep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1335"
+route_short_name = "133E"
+route_long_name = "Újpalota, Nyírpalota út / Nagytétény, ipartelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1340"
+route_short_name = "134"
+route_long_name = "Szentlélek tér H / Békásmegyer, Újmegyeri tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1350"
+route_short_name = "135"
+route_long_name = "Szentlőrinci úti lakótelep / Millenniumtelep H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1360"
+route_short_name = "136"
+route_long_name = "Kőbánya-Kispest M / Fiatalság utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1370"
+route_short_name = "137"
+route_long_name = "Szentlélek tér H / Máramaros út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1380"
+route_short_name = "138"
+route_long_name = "Csepel, Szent Imre tér / Budatétény vasútállomás (Campona)"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1390"
+route_short_name = "139"
+route_long_name = "Széll Kálmán tér M / Gazdagréti tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1400"
+route_short_name = "140"
+route_long_name = "Széll Kálmán tér M / Törökbálint, bevásárlóközpont"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1401"
+route_short_name = "140A"
+route_long_name = "Széll Kálmán tér M / Budaörsi lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1402"
+route_short_name = "140B"
+route_long_name = "Budaörsi lakótelep / Törökbálint, bevásárlóközpont"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1410"
+route_short_name = "141"
+route_long_name = "Savoya Park / Kelenföld vasútállomás M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1425"
+route_short_name = "142E"
+route_long_name = "Határ út M / Goroszló utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1440"
+route_short_name = "144"
+route_long_name = "Örs vezér tere M+H / János utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1460"
+route_short_name = "146"
+route_long_name = "Újpalota, Nyírpalota út / Rákoskeresztúr, városközpont"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1461"
+route_short_name = "146A"
+route_long_name = "Cinkotai autóbuszgarázs / Rákoskeresztúr, városközpont"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1470"
+route_short_name = "147"
+route_long_name = "Újpest-központ M / Megyeri út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1480"
+route_short_name = "148"
+route_long_name = "Kőbánya-Kispest M / Csepel, Soroksári rév"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1490"
+route_short_name = "149"
+route_long_name = "Széll Kálmán tér M / Fenyves utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1500"
+route_short_name = "150"
+route_long_name = "Újbuda-központ M / Budatétény vasútállomás (Campona)"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1502"
+route_short_name = "150B"
+route_long_name = "Újbuda-központ M / Budatétény vasútállomás (Campona)"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1510"
+route_short_name = "151"
+route_long_name = "Kőbánya alsó vasútállomás / Csepel, Határ utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1520"
+route_short_name = "152"
+route_long_name = "Csepel, Szent Imre tér / Völgy utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1530"
+route_short_name = "153"
+route_long_name = "Infopark (Pázmány Péter sétány) / Gazdagréti tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1540"
+route_short_name = "154"
+route_long_name = "Gazdagréti tér / Petőfi híd, budai hídfő"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1550"
+route_short_name = "155"
+route_long_name = "Széll Kálmán tér M / Fácános tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1560"
+route_short_name = "156"
+route_long_name = "Széll Kálmán tér M / Dániel út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1570"
+route_short_name = "157"
+route_long_name = "Hűvösvölgy / Solymár, Kerekhegy"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1571"
+route_short_name = "157A"
+route_long_name = "Hűvösvölgy / Budaliget, Géza fejedelem útja"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1580"
+route_short_name = "158"
+route_long_name = "Savoya Park / Balatoni út / Háros utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1590"
+route_short_name = "159"
+route_long_name = "Csepel, Szent Imre tér / Csille utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1600"
+route_short_name = "160"
+route_long_name = "Óbudai rendelőintézet / Békásmegyer H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1610"
+route_short_name = "161"
+route_long_name = "Örs vezér tere M+H / Csaba vezér tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1611"
+route_short_name = "161A"
+route_long_name = "Örs vezér tere M+H / Rákoskeresztúr, városközpont (befelé)"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1615"
+route_short_name = "161E"
+route_long_name = "Örs vezér tere M+H / Csaba vezér tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1620"
+route_short_name = "162"
+route_long_name = "Kőbánya alsó vasútállomás / Maglód, Auchan áruház"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1640"
+route_short_name = "164"
+route_long_name = "Hűvösvölgy / Solymár, PEMÜ"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1650"
+route_short_name = "165"
+route_long_name = "Kolosy tér / Kolostor út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1660"
+route_short_name = "166"
+route_long_name = "Gubacsi út / Határ út / Ferihegy vasútállomás"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1685"
+route_short_name = "168E"
+route_long_name = "Örs vezér tere M+H / Lőrinci út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1695"
+route_short_name = "169E"
+route_long_name = "Örs vezér tere M+H / Pécel, Kun József utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1700"
+route_short_name = "170"
+route_long_name = "Újpest-központ M / Rákospalota, Csömöri-patak"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1720"
+route_short_name = "172"
+route_long_name = "Kelenföld vasútállomás M / Munkácsy Mihály utca (hősi emlékmű)"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1730"
+route_short_name = "173"
+route_long_name = "Kelenföld vasútállomás M / Nyár utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1740"
+route_short_name = "174"
+route_long_name = "Örs vezér tere M+H / Cinkota H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1750"
+route_short_name = "175"
+route_long_name = "Újpalota, Szentmihályi út / Cinkota H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1765"
+route_short_name = "176E"
+route_long_name = "Örs vezér tere M+H / Rákoscsaba-Újtelep, Tóalmás utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1780"
+route_short_name = "178"
+route_long_name = "Deák Ferenc tér M / Naphegy tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1790"
+route_short_name = "179"
+route_long_name = "Csepel, Szent Imre tér / Közvágóhíd H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1810"
+route_short_name = "181"
+route_long_name = "Aszódi utca / József Attila ltp., Távíró utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1820"
+route_short_name = "182"
+route_long_name = "Kőbánya-Kispest M / Alacskai úti lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1821"
+route_short_name = "182A"
+route_long_name = "Kőbánya-Kispest M / Varjú utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1830"
+route_short_name = "183"
+route_long_name = "Pestszentlőrinc, Szarvas csárda tér / Szemeretelep vasútállomás"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1840"
+route_short_name = "184"
+route_long_name = "Kőbánya-Kispest M / Pestszentimre, Benjámin utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1850"
+route_short_name = "185"
+route_long_name = "Kőbánya alsó vasútállomás / Mádi utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1870"
+route_short_name = "187"
+route_long_name = "Kelenföld vasútállomás M / Kamaraerdő"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1880"
+route_short_name = "188"
+route_long_name = "Kelenföld vasútállomás M / Budakeszi, Honfoglalás sétány"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1885"
+route_short_name = "188E"
+route_long_name = "Kelenföld vasútállomás M / Budakeszi, Honfoglalás sétány"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1910"
+route_short_name = "191"
+route_long_name = "Nyugati pályaudvar M / Mansfeld Péter park"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1935"
+route_short_name = "193E"
+route_long_name = "Kőbánya-Kispest M / Vecsés, Market Central Ferihegy"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1940"
+route_short_name = "194"
+route_long_name = "Határ út M / Ipacsfa utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1942"
+route_short_name = "194B"
+route_long_name = "Határ út M / Besence utca 9."
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1950"
+route_short_name = "195"
+route_long_name = "Puskás Ferenc Stadion M / Rákoskeresztúr, városközpont"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1960"
+route_short_name = "196"
+route_long_name = "Újpalota, Szentmihályi út / Újpest, Fóti út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1961"
+route_short_name = "196A"
+route_long_name = "Újpalota, Szentmihályi út / Újpest-városkapu M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1970"
+route_short_name = "197"
+route_long_name = "Rákoskert vasútállomás / Rákoskert vasútállomás"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_1980"
+route_short_name = "198"
+route_long_name = "Dél-pesti autóbuszgarázs / Rákoscsaba-Újtelep, Tóalmás utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2005"
+route_short_name = "200E"
+route_long_name = "Kőbánya-Kispest M / Liszt Ferenc Airport 2"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2025"
+route_short_name = "202E"
+route_long_name = "Kőbánya-Kispest M / Rákoskeresztúr, városközpont (kifelé)"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2040"
+route_short_name = "204"
+route_long_name = "Rákospalota, Kossuth utca / Békásmegyer, Újmegyeri tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2100"
+route_short_name = "210"
+route_long_name = "Svábhegy / Gyöngyösi utca M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2102"
+route_short_name = "210B"
+route_long_name = "Normafa, látogatóközpont / Gyöngyösi utca M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2120"
+route_short_name = "212"
+route_long_name = "Boráros tér H / Normafa, látogatóközpont"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2121"
+route_short_name = "212A"
+route_long_name = "Boráros tér H / Svábhegy"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2122"
+route_short_name = "212B"
+route_long_name = "Boráros tér H / Csillebérc, KFKI"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2130"
+route_short_name = "213"
+route_long_name = "Móricz Zsigmond körtér M / Mátyás király utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2140"
+route_short_name = "214"
+route_long_name = "Móricz Zsigmond körtér M / Baross Gábor-telep, Ispiláng utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2160"
+route_short_name = "216"
+route_long_name = "Deák Ferenc tér M / Dísz tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2170"
+route_short_name = "217"
+route_long_name = "Kőbánya alsó vasútállomás / Pestszentlőrinc, Szarvas csárda tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2175"
+route_short_name = "217E"
+route_long_name = "Blaha Lujza tér M / Pestszentlőrinc, Szarvas csárda tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2180"
+route_short_name = "218"
+route_long_name = "Szentlélek tér H / Solymár, Auchan áruház"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2190"
+route_short_name = "219"
+route_long_name = "Csillaghegy H / Mácsonya utca [5]"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2200"
+route_short_name = "220"
+route_long_name = "Újpest-központ M / Iglói utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2210"
+route_short_name = "221"
+route_long_name = "Széll Kálmán tér M / Csillebérc, KFKI"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2220"
+route_short_name = "222"
+route_long_name = "Széll Kálmán tér M / Budakeszi, Honfoglalás sétány"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2235"
+route_short_name = "223E"
+route_long_name = "Boráros tér H / Gubacsi út / Határ út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2240"
+route_short_name = "224"
+route_long_name = "Boráros tér H / Szentlőrinci úti lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2245"
+route_short_name = "224E"
+route_long_name = "Boráros tér H / Szentlőrinci úti lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2250"
+route_short_name = "225"
+route_long_name = "Mexikói út M / Rákospalota, Székely Elek út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2300"
+route_short_name = "230"
+route_long_name = "Keleti pályaudvar M / Káposztásmegyer, Aquaworld"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2310"
+route_short_name = "231"
+route_long_name = "Örs vezér tere M+H / Cserba Elemér út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2312"
+route_short_name = "231B"
+route_long_name = "Örs vezér tere M+H / Cserba Elemér út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2360"
+route_short_name = "236"
+route_long_name = "Vecsés, Market Central Ferihegy / Margó Tivadar utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2361"
+route_short_name = "236A"
+route_long_name = "Ganztelep, Mednyánszky utca / Margó Tivadar utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2370"
+route_short_name = "237"
+route_long_name = "Szentlélek tér H / Jablonka út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2380"
+route_short_name = "238"
+route_long_name = "Csepel, Szent Imre tér / Ady Endre utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2400"
+route_short_name = "240"
+route_long_name = "Móricz Zsigmond körtér M / Budaörsi lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2430"
+route_short_name = "243"
+route_long_name = "Békásmegyer H / Békásmegyer H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2440"
+route_short_name = "244"
+route_long_name = "Örs vezér tere M+H / Centenáriumi lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2500"
+route_short_name = "250"
+route_long_name = "Savoya Park / Kelenföld vasútállomás M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2502"
+route_short_name = "250B"
+route_long_name = "Savoyai Jenő tér (Törley tér) / Kelenföld vasútállomás M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2510"
+route_short_name = "251"
+route_long_name = "Savoya Park / Kelenföld vasútállomás M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2511"
+route_short_name = "251A"
+route_long_name = "Városház tér / Kelenföld vasútállomás M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2515"
+route_short_name = "251E"
+route_long_name = "Városház tér / Kelenföld vasútállomás M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2545"
+route_short_name = "254E"
+route_long_name = "Népliget M / Alacskai úti lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2555"
+route_short_name = "255E"
+route_long_name = "Boráros tér H / Alacskai úti lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2570"
+route_short_name = "257"
+route_long_name = "Hűvösvölgy / Hűvösvölgy"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2600"
+route_short_name = "260"
+route_long_name = "Óbudai rendelőintézet / Citronella utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2615"
+route_short_name = "261E"
+route_long_name = "Liget sor / Örs vezér tere M+H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2620"
+route_short_name = "262"
+route_long_name = "Kőbánya alsó vasútállomás / Rózsaszál utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2640"
+route_short_name = "264"
+route_long_name = "Hűvösvölgy / Solymár, PEMÜ"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2660"
+route_short_name = "266"
+route_long_name = "Pestszentimre vasútállomás (Vasút utca) / Ganztelep, Mednyánszky utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2680"
+route_short_name = "268"
+route_long_name = "Kispest, Vas Gereben utca / Akadémiaújtelep, 525. tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2690"
+route_short_name = "269"
+route_long_name = "Rákoscsaba vasútállomás / Színes utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2700"
+route_short_name = "270"
+route_long_name = "Újpest-központ M / Rákospalota, Csömöri-patak"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2720"
+route_short_name = "272"
+route_long_name = "Kelenföld vasútállomás M / Márta utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2750"
+route_short_name = "275"
+route_long_name = "Rákoscsaba vasútállomás / Piski utca (óvoda)"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2765"
+route_short_name = "276E"
+route_long_name = "Örs vezér tere M+H / Gyöngytyúk utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2770"
+route_short_name = "277"
+route_long_name = "Örs vezér tere M+H / Bosnyák tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2780"
+route_short_name = "278"
+route_long_name = "Csepel, Szent Imre tér / Szigetszentmiklós, Szabadság utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2790"
+route_short_name = "279"
+route_long_name = "Lakihegy, Cseresznyés utca / Bányató út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2792"
+route_short_name = "279B"
+route_long_name = "Lakihegy, Cseresznyés utca / József Attila utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2800"
+route_short_name = "280"
+route_long_name = "Auchan Sziget áruház / Massányi úti lakópark"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2802"
+route_short_name = "280B"
+route_long_name = "Auchan Sziget áruház / Massányi úti lakópark"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2810"
+route_short_name = "281"
+route_long_name = "Aszódi utca / Aszódi utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2825"
+route_short_name = "282E"
+route_long_name = "Kőbánya-Kispest M / Alacskai úti lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2845"
+route_short_name = "284E"
+route_long_name = "Kőbánya-Kispest M / Pestszentimre, Benjámin utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2870"
+route_short_name = "287"
+route_long_name = "Budaörsi lakótelep / Budatétény vasútállomás (Campona)"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2910"
+route_short_name = "291"
+route_long_name = "Nyugati pályaudvar M / Zugliget, Libegő"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2945"
+route_short_name = "294E"
+route_long_name = "Határ út M / Rákóczi Ferenc utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2960"
+route_short_name = "296"
+route_long_name = "Újpalota, Szentmihályi út / Békásmegyer, Újmegyeri tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2961"
+route_short_name = "296A"
+route_long_name = "Újpalota, Szentmihályi út / Káposztásmegyer, Szilas-patak"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2970"
+route_short_name = "297"
+route_long_name = "Rákoscsaba-Újtelep vasútállomás / Nyeremény utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_2980"
+route_short_name = "298"
+route_long_name = "Rákoscsaba vasútállomás / Zimonyi utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_3010"
+route_short_name = "1"
+route_long_name = "Kelenföld vasútállomás M / Bécsi út / Vörösvári út"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3011"
+route_short_name = "1A"
+route_long_name = "Népliget M / Bécsi út / Vörösvári út"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3020"
+route_short_name = "2"
+route_long_name = "Jászai Mari tér / Közvágóhíd H"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3022"
+route_short_name = "2B"
+route_long_name = "Jászai Mari tér / Pesterzsébet, Pacsirtatelep"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3030"
+route_short_name = "3"
+route_long_name = "Mexikói út M / Gubacsi út / Határ út"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3040"
+route_short_name = "4"
+route_long_name = "Széll Kálmán tér M / Újbuda-központ M"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3060"
+route_short_name = "6"
+route_long_name = "Széll Kálmán tér M / Móricz Zsigmond körtér M"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3120"
+route_short_name = "12"
+route_long_name = "Angyalföld kocsiszín / Rákospalota, Kossuth utca"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3140"
+route_short_name = "14"
+route_long_name = "Lehel tér M / Káposztásmegyer, Megyeri út"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3170"
+route_short_name = "17"
+route_long_name = "Savoya Park / Bécsi út / Vörösvári út"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3190"
+route_short_name = "19"
+route_long_name = "Bécsi út / Vörösvári út / Kelenföld vasútállomás M"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3230"
+route_short_name = "23"
+route_long_name = "Jászai Mari tér / Keleti pályaudvar M"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3240"
+route_short_name = "24"
+route_long_name = "Keleti pályaudvar M / Közvágóhíd H"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3280"
+route_short_name = "28"
+route_long_name = "Blaha Lujza tér M / Izraelita temető"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3281"
+route_short_name = "28A"
+route_long_name = "Blaha Lujza tér M / Új köztemető (Kozma utca)"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3370"
+route_short_name = "37"
+route_long_name = "Blaha Lujza tér M / Új köztemető (Kozma utca)"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3371"
+route_short_name = "37A"
+route_long_name = "Blaha Lujza tér M / Sörgyár"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3410"
+route_short_name = "41"
+route_long_name = "Bécsi út / Vörösvári út / Kamaraerdei Ifjúsági Park"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3420"
+route_short_name = "42"
+route_long_name = "Határ út M / Kispest, Tulipán utca"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3470"
+route_short_name = "47"
+route_long_name = "Deák Ferenc tér M / Városház tér"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3480"
+route_short_name = "48"
+route_long_name = "Deák Ferenc tér M / Savoya Park"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3490"
+route_short_name = "49"
+route_long_name = "Deák Ferenc tér M / Kelenföld vasútállomás M"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3500"
+route_short_name = "50"
+route_long_name = "Határ út M / Pestszentlőrinc, Béke tér"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3510"
+route_short_name = "51"
+route_long_name = "Mester utca / Ferenc körút / Török Flóris utca"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3511"
+route_short_name = "51A"
+route_long_name = "Mester utca / Ferenc körút / Koppány utca"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3520"
+route_short_name = "52"
+route_long_name = "Határ út M / Pesterzsébet, Pacsirtatelep"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3560"
+route_short_name = "56"
+route_long_name = "Hűvösvölgy / Városház tér"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3561"
+route_short_name = "56A"
+route_long_name = "Hűvösvölgy / Móricz Zsigmond körtér M"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3590"
+route_short_name = "59"
+route_long_name = "Szent János Kórház / Márton Áron tér"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3591"
+route_short_name = "59A"
+route_long_name = "Széll Kálmán tér M / Márton Áron tér"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3592"
+route_short_name = "59B"
+route_long_name = "Hűvösvölgy / Márton Áron tér"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3600"
+route_short_name = "60"
+route_long_name = "Városmajor / Széchenyi-hegy, Gyermekvasút"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3610"
+route_short_name = "61"
+route_long_name = "Hűvösvölgy / Móricz Zsigmond körtér M"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3620"
+route_short_name = "62"
+route_long_name = "Blaha Lujza tér M / Rákospalota, MÁV-telep"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3621"
+route_short_name = "62A"
+route_long_name = "Kőbánya alsó vasútállomás / Rákospalota, MÁV-telep"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3690"
+route_short_name = "69"
+route_long_name = "Mexikói út M / Újpalota, Erdőkerülő utca"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_3KT01"
+route_short_name = "KT01"
+route_long_name = "Ferencváros kocsiszín / Közvágóhíd H"
+route_type = 0
+
+[[routes]]
+route_id = "BKK_4700"
+route_short_name = "70"
+route_long_name = "Kossuth Lajos tér M / Erzsébet királyné útja, aluljáró"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4720"
+route_short_name = "72"
+route_long_name = "Orczy tér / Zugló vasútállomás (Hermina út)"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4730"
+route_short_name = "73"
+route_long_name = "Keleti pályaudvar M / Nyugati pályaudvar M"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4740"
+route_short_name = "74"
+route_long_name = "Károly körút (Astoria M) / Csáktornya park"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4741"
+route_short_name = "74A"
+route_long_name = "Mexikói út M / Csáktornya park"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4750"
+route_short_name = "75"
+route_long_name = "Jászai Mari tér / Puskás Ferenc Stadion M"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4760"
+route_short_name = "76"
+route_long_name = "Jászai Mari tér / Keleti pályaudvar M"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4770"
+route_short_name = "77"
+route_long_name = "Puskás Ferenc Stadion M / Rákosmezei tér"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4780"
+route_short_name = "78"
+route_long_name = "Kossuth Lajos tér M / Keleti pályaudvar M"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4790"
+route_short_name = "79"
+route_long_name = "Keleti pályaudvar M / Párkány utca"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4800"
+route_short_name = "80"
+route_long_name = "Keleti pályaudvar M / Örs vezér tere M+H"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4810"
+route_short_name = "81"
+route_long_name = "Fischer István utca / Örs vezér tere M+H"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4820"
+route_short_name = "82"
+route_long_name = "Mexikói út M / Örs vezér tere M+H"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4821"
+route_short_name = "82A"
+route_long_name = "Erzsébet királyné útja / Róna utca / Örs vezér tere M+H"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_4830"
+route_short_name = "83"
+route_long_name = "Fővám tér M / Népliget M"
+route_type = 11
+
+[[routes]]
+route_id = "BKK_5100"
+route_short_name = "M1"
+route_long_name = "Vörösmarty tér / Mexikói út M"
+route_type = 1
+
+[[routes]]
+route_id = "BKK_5200"
+route_short_name = "M2"
+route_long_name = "Déli pályaudvar M / Örs vezér tere M+H"
+route_type = 1
+
+[[routes]]
+route_id = "BKK_5300"
+route_short_name = "M3"
+route_long_name = "Újpest-központ / Kőbánya-Kispest"
+route_type = 1
+
+[[routes]]
+route_id = "BKK_5400"
+route_short_name = "M4"
+route_long_name = "Keleti pályaudvar / Kelenföld vasútállomás"
+route_type = 1
+
+[[routes]]
+route_id = "BKK_8140"
+route_short_name = "D14"
+route_long_name = "Csepel-Királyerdő / Soroksár, Molnár-sziget"
+route_type = 4
+
+[[routes]]
+route_id = "BKK_9010"
+route_short_name = "901"
+route_long_name = "Kelenföld vasútállomás M / Bécsi út / Vörösvári út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9070"
+route_short_name = "907"
+route_long_name = "Kelenföld vasútállomás M / Örs vezér tere M+H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9071"
+route_short_name = "907A"
+route_long_name = "Astoria M / Bosnyák tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9080"
+route_short_name = "908"
+route_long_name = "Móricz Zsigmond körtér M / Rákoscsaba-Újtelep, Tóalmás utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9081"
+route_short_name = "908A"
+route_long_name = "Móricz Zsigmond körtér M / Rákoskeresztúr, városközpont"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9090"
+route_short_name = "909"
+route_long_name = "Deák Ferenc tér M / Kispest, Kossuth tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9091"
+route_short_name = "909A"
+route_long_name = "Deák Ferenc tér M / Élessarok"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9140"
+route_short_name = "914"
+route_long_name = "Káposztásmegyer, Mogyoródi-patak / Dél-pesti autóbuszgarázs"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9141"
+route_short_name = "914A"
+route_long_name = "Újpest-központ M / Határ út M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9160"
+route_short_name = "916"
+route_long_name = "Uránia / Széll Kálmán tér M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9180"
+route_short_name = "918"
+route_long_name = "Kelenföld vasútállomás M / Óbudai autóbuszgarázs"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9220"
+route_short_name = "922"
+route_long_name = "Széll Kálmán tér M / Budakeszi, Dózsa György tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9222"
+route_short_name = "922B"
+route_long_name = "Széll Kálmán tér M / Zsámbék, autóbusz-forduló"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9230"
+route_short_name = "923"
+route_long_name = "Békásmegyer H / Dél-pesti autóbuszgarázs"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9300"
+route_short_name = "930"
+route_long_name = "Újpest-központ M / Megyer, Szondi utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9310"
+route_short_name = "931"
+route_long_name = "Nyugati pályaudvar M / József utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9311"
+route_short_name = "931A"
+route_long_name = "Deák Ferenc tér M / Örs vezér tere M+H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9312"
+route_short_name = "931"
+route_long_name = "Nyugati pályaudvar M / Mechwart liget"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9340"
+route_short_name = "934"
+route_long_name = "Békásmegyer H / Pesterzsébet (934 fiktív VÁ)"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9370"
+route_short_name = "937"
+route_long_name = "Bécsi út / Vörösvári út / Máramaros út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9380"
+route_short_name = "938"
+route_long_name = "Csepel, Szent Imre tér / Kölcsey Ferenc utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9400"
+route_short_name = "940"
+route_long_name = "Móricz Zsigmond körtér M / Budaörsi lakótelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9410"
+route_short_name = "941"
+route_long_name = "Móricz Zsigmond körtér M / Budatétény vasútállomás (Campona)"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9430"
+route_short_name = "943"
+route_long_name = "Békásmegyer H / Szentendre H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9480"
+route_short_name = "948"
+route_long_name = "Dél-pesti autóbuszgarázs / Bajcsy-Zsilinszky út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9500"
+route_short_name = "950"
+route_long_name = "Rákospalota, Kossuth utca / Pestszentimre vasútállomás"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9501"
+route_short_name = "950A"
+route_long_name = "Rákospalota, Kossuth utca / Pestszentimre vasútállomás"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9560"
+route_short_name = "956"
+route_long_name = "Hűvösvölgy / Pécel, Kun József utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9600"
+route_short_name = "960"
+route_long_name = "Móricz Zsigmond körtér M / Békásmegyer, Újmegyeri tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9630"
+route_short_name = "963"
+route_long_name = "Hűvösvölgy / Nagykovácsi, Tisza István tér"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9640"
+route_short_name = "964"
+route_long_name = "Hűvösvölgy / Solymár, PEMÜ"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9660"
+route_short_name = "966"
+route_long_name = "Határ út M / Millenniumtelep H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9680"
+route_short_name = "968"
+route_long_name = "Kispest, Kossuth tér / Cinkotai autóbuszgarázs"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9720"
+route_short_name = "972"
+route_long_name = "Móricz Zsigmond körtér M / Nyár utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9722"
+route_short_name = "972B"
+route_long_name = "Móricz Zsigmond körtér M / Nyár utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9730"
+route_short_name = "973"
+route_long_name = "Nagytétény, ipartelep / Újpalota, Szentmihályi út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9731"
+route_short_name = "973A"
+route_long_name = "Astoria M / Keleti pályaudvar M"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9790"
+route_short_name = "979"
+route_long_name = "Újpalota, Nyírpalota út / Csepel, Csillagtelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9791"
+route_short_name = "979A"
+route_long_name = "Hősök tere M / Csepel, Csillagtelep"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9800"
+route_short_name = "980"
+route_long_name = "Dél-pesti autóbuszgarázs / Rákoskeresztúr, városközpont"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9900"
+route_short_name = "990"
+route_long_name = "Normafa, látogatóközpont / Rákoskeresztúr, városközpont (befelé)"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9920"
+route_short_name = "992"
+route_long_name = "Cinkotai autóbuszgarázs / Gödöllő H"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9940"
+route_short_name = "994"
+route_long_name = "Dél-pesti autóbuszgarázs / Rákóczi Ferenc utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9942"
+route_short_name = "994B"
+route_long_name = "Dél-pesti autóbuszgarázs / Somogyi Béla utca / Kőrösi út"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9960"
+route_short_name = "996"
+route_long_name = "Újpest-központ M / Cinkotai autóbuszgarázs"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9961"
+route_short_name = "996A"
+route_long_name = "Újpest-központ M / Cinkotai autóbuszgarázs"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9980"
+route_short_name = "998"
+route_long_name = "Cinkotai autóbuszgarázs / Rétsár utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9982"
+route_short_name = "998B"
+route_long_name = "Cinkotai autóbuszgarázs / Tarack utca"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_9990"
+route_short_name = "999"
+route_long_name = "Határ út M / Dél-pesti autóbuszgarázs"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_H5"
+route_short_name = "H5"
+route_long_name = "Batthyány tér / Szentendre"
+route_type = 109
+
+[[routes]]
+route_id = "BKK_H6"
+route_short_name = "H6"
+route_long_name = "Közvágóhíd / Ráckeve"
+route_type = 109
+
+[[routes]]
+route_id = "BKK_H7"
+route_short_name = "H7"
+route_long_name = "Boráros tér / Csepel"
+route_type = 109
+
+[[routes]]
+route_id = "BKK_H8"
+route_short_name = "H8"
+route_long_name = "Cinkota / Kerepes"
+route_type = 109
+
+[[routes]]
+route_id = "BKK_H9"
+route_short_name = "H9"
+route_long_name = "Örs vezér tere / Csömör"
+route_type = 109
+
+[[routes]]
+route_id = "BKK_KT01"
+route_short_name = "KT01"
+route_long_name = "Örs vezér tere M+H / Kőbányai garázs"
+route_type = 3
+
+[[routes]]
+route_id = "BKK_MOZG"
+route_short_name = "MOZG"
+route_long_name = "Óbudai autóbuszgarázs / Széll Kálmán tér M"
+route_type = 3
+
