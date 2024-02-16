@@ -30,10 +30,8 @@
 			{#await newsPromise}
 				<p>loading...</p>
 			{:then news}
-				{#if news[page]}
+				{#if news.length > 0}
 					<p>{news[page].alert}</p>
-				{:else}
-					<p>no news</p>
 				{/if}
 			{:catch error}
 				<p>valami nem jo!</p>
