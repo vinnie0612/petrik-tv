@@ -24,7 +24,14 @@ type SubInput = {
 export const getSubs = async () => {
 	const response = await fetch(baseUrl);
 
-	const input = await response.json();
+	const resbody = await response.text();
+
+	if (resbody === '') {
+		return [];
+	}
+
+	const input: SubInput[] = JSON.parse(resbody);
+
 
 	const data: Sub[] = input.map((item: SubInput) => {
 		return {

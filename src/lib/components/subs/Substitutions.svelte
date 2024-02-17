@@ -11,6 +11,7 @@
 {#await subsPromise}
 	<p>loading...</p>
 {:then subs}
+	{#if subs.length > 0}
 	<table class="w-full">
 		<tr>
 			<TableHeader icon="nest-clock-farsight-analog" centered={true} />
@@ -35,6 +36,9 @@
 			</tr>
 		{/each}
 	</table>
+	{:else}
+		<p class="text-center text-2xl">Ma nincs helyettesítés!</p>
+	{/if}
 {:catch error}
 	<p>valami nem jo!</p>
 	<p>{error}</p>
