@@ -1,4 +1,6 @@
 <script lang="ts">
+  import ClassTimes from '../lib/components/ClassTimes.svelte';
+
   import Nav from '$lib/components/nav/Nav.svelte';
 
 	import '../app.css';
@@ -18,7 +20,7 @@
 				<Departures {data} />
 			</div>
 			<div class="h-full mt-2 rounded-lg p-2 bg-emerald-700 text-white">
-				<h1>Ide vajon mit fogok rakni?</h1>
+				<ClassTimes />
 			</div>
 		</div>
 
