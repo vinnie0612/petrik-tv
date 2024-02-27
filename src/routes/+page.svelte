@@ -8,6 +8,8 @@
 	import Departures from '$lib/components/bkk/Departures.svelte';
 
 	import Substitutions from '$lib/components/subs/Substitutions.svelte';
+
+	import Orarend from '$lib/components/orarend/Orarend.svelte';
 </script>
 
 <main class="h-screen flex flex-col">
@@ -18,7 +20,7 @@
 				<Departures {data} />
 			</div>
 			<div class="h-full mt-2 rounded-lg p-2 bg-emerald-700 text-white">
-				<h1>Ide vajon mit fogok rakni?</h1>
+				<Orarend />
 			</div>
 		</div>
 
