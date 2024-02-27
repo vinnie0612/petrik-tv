@@ -1,8 +1,8 @@
-import { env } from '$env/dynamic/private';
+import { BKK_KEY } from '$env/static/private';
 
 /** @type {import('./$types').PageLoad} */
 export function load() {
 	return {
-		bkk_key: env.BKK_KEY
+		bkk_key: BKK_KEY
 	};
 }
